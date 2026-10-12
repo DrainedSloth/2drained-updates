@@ -4,6 +4,12 @@
   "channel": "stable",
   "currentVersion": "0.1.7",
   "executable": "CosmoStellaria.exe",
-  "status": "external-installer-until-v0.2",
-  "notes": "Reserved for 2Drained-Launcher V0.2 game installation and update management."
+  "installDirectory": "CosmoStellaria",
+  "status": "installable",
+  "installer": {
+    "type": "tauri-nsis",
+    "manifestUrl": "https://dsm-stellar-dominion.vercel.app/updates/latest.json",
+    "silent": true
+  },
+  "notes": "Installed through 2Drained-Launcher V0.2 using the official CosmoStellaria Windows installer."
 }
