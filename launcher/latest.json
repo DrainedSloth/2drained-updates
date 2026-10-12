@@ -1,0 +1,11 @@
+{
+  "version": "0.1.2",
+  "notes": "2Drained-Launcher GitHub update channel initialized. No newer launcher update is available yet.",
+  "pub_date": "2026-10-12T21:30:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbEVYM25NT2xWYUM0TDlUQnAyRi9KbWU3MTFybklTbFlHSFdaWVFWeCtpOUcrQUtmS0ZXeVNyL2ZxYWN4TUJrNG5oMDlDNWNjVnRtT1R5UlROK01OTGhna21lajgzdkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTY1NDQxCWZpbGU6Q29zbW9TdGVsbGFyaWFfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43ClhybGh2RDQ4M0ovRDIrcUliUkpUaDh2Y1RldjBSenMrL09NMFlhZmxGbnlRbytrYk9kZDJPZWpDYmx5YWl1YVMyaFBKbjhmQm9EcG5CRXVTQ1A3d0NBPT0K",
+      "url": "https://raw.githubusercontent.com/DrainedSloth/2drained-updates/main/launcher/2Drained-Launcher-update-x64.exe"
+    }
+  }
+}
