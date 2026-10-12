@@ -1,0 +1,9 @@
+{
+  "id": "cosmostellaria",
+  "name": "CosmoStellaria",
+  "channel": "stable",
+  "currentVersion": "0.1.7",
+  "executable": "CosmoStellaria.exe",
+  "status": "external-installer-until-v0.2",
+  "notes": "Reserved for 2Drained-Launcher V0.2 game installation and update management."
+}
