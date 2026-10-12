@@ -1,0 +1,9 @@
+{
+  "id": "factory-defense",
+  "name": "Factory Defense",
+  "channel": "development",
+  "currentVersion": null,
+  "executable": "FactoryDefense.exe",
+  "status": "coming-soon",
+  "notes": "Reserved for 2Drained-Launcher game distribution."
+}
