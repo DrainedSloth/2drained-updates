@@ -9,7 +9,8 @@
   "installer": {
     "type": "tauri-nsis",
     "manifestUrl": "https://dsm-stellar-dominion.vercel.app/updates/latest.json",
-    "silent": true
+    "silent": true,
+    "publicKey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDY4NTVFOTMwRTc3RDExNjUKUldSbEVYM25NT2xWYUZzNno0K3FhVUl4SGJ0SnBiU2U0NkxVZ1MvaExFSk5keTR4ZFlFWGg3NjEK"
   },
-  "notes": "Installed through 2Drained-Launcher V0.2 using the official CosmoStellaria Windows installer."
+  "notes": "Installed through 2Drained-Launcher V0.2 using the official CosmoStellaria Windows installer with Tauri/Minisign signature verification."
 }
