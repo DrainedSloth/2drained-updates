@@ -1,10 +1,10 @@
 {
-  "version": "0.1.5",
-  "notes": "Corrected launcher signing key and GitHub self-update test.",
-  "pub_date": "2026-10-12T22:53:42Z",
+  "version": "0.2.0",
+  "notes": "Direct game installation, download manager with pause/resume/cancel, game updates, repair and uninstall.",
+  "pub_date": "2026-10-12T23:49:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFN4U3ZneWlNTFlrd3FLQURIMHVEVXRyQ25BaElvMnlSZmd4WlpVS3U4WUVCSjhuQU56Qkd2WGJNNEcrclNVYlYyUlNKOUQ5RXhkN1pPQmw3NXJXTDF3cG0rekRJNWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODQ1NjIyCWZpbGU6MkRyYWluZWQtTGF1bmNoZXJfMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41CmdTY1Q1QWYvdk9LSkpFUWF2N1gwbndaQ29LNzRVYWlOWEJZWTI1eUFpb3lYNnZJZE9VNnFJQVkzNTArSUVsUDF6elhQcVZUZzA5TjFHL2xzODlnNENBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFN4U3ZneWlNTFJRVW9EaU1sUVBodks2UG1pd3h4dEVROER4OVpyZ1RRb3pxZWU5dUdpa3gzSXRPNTFIMUdRM0J2RlBDemN2bWlONEJEMVpWQ2IzN3pzajhrSThzYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODQ4OTQ5CWZpbGU6MkRyYWluZWQtTGF1bmNoZXJfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCncvV1A1d1lNYnN0MFNwNmdHaXFtTTBTSTFnTCtkWEJRY1h5eWFtd3JaNjZNSzBaYjdkTDFleVg0Rk1FNXhIK0ZHTGh3MGtNWjVGSHFmRUE3WW8vMUF3PT0K",
       "url": "https://raw.githubusercontent.com/DrainedSloth/2drained-updates/main/launcher/2Drained-Launcher-update-x64.exe"
     }
   }
