@@ -1,10 +1,10 @@
 {
-  "version": "0.2.0",
-  "notes": "Direct game installation, download manager with pause/resume/cancel, game updates, repair and uninstall.",
-  "pub_date": "2026-10-12T23:49:09Z",
+  "version": "0.2.1",
+  "notes": "Security update for Laucher and auto-installer for games",
+  "pub_date": "2026-10-13T11:02:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFN4U3ZneWlNTFJRVW9EaU1sUVBodks2UG1pd3h4dEVROER4OVpyZ1RRb3pxZWU5dUdpa3gzSXRPNTFIMUdRM0J2RlBDemN2bWlONEJEMVpWQ2IzN3pzajhrSThzYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODQ4OTQ5CWZpbGU6MkRyYWluZWQtTGF1bmNoZXJfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCncvV1A1d1lNYnN0MFNwNmdHaXFtTTBTSTFnTCtkWEJRY1h5eWFtd3JaNjZNSzBaYjdkTDFleVg0Rk1FNXhIK0ZHTGh3MGtNWjVGSHFmRUE3WW8vMUF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFN4U3ZneWlNTGVSRFg2bk1iNlhqdktkZGVXMVMrcnJPQnRzTnk1dFhySXA3cUlXcm1wVEsvYWZlYTFKK29tUys4aU5MK1RDaTQySnh1VmlWL0dIbkF5Ym1nUTgwYlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODg5MzU4CWZpbGU6MkRyYWluZWQtTGF1bmNoZXJfMC4yLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4xCmVHME5UZkdyaU9BZlpKTE1wdERsT3k4MnUrOHpBMitLNHF0VFV4cnllakMza1dEOGhNOUxDTURiWExoNTZocXA4cEllNWJUVm1Ic2crRVArUmd6NEJRPT0K",
       "url": "https://raw.githubusercontent.com/DrainedSloth/2drained-updates/main/launcher/2Drained-Launcher-update-x64.exe"
     }
   }
