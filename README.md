@@ -30,6 +30,7 @@ Use this for games that already publish a Tauri updater feed.
   "installer": {
     "type": "tauri-nsis",
     "manifestUrl": "https://approved-update-host.example/latest.json",
+    "publicKey": "BASE64_ENCODED_MINISIGN_PUBLIC_KEY",
     "silent": true
   }
 }
@@ -59,6 +60,8 @@ Use this for games that do not need their own installer. The ZIP should contain 
   "notes": "Full launcher-managed ZIP distribution."
 }
 ```
+
+Tauri / NSIS packages require the updater public key so the launcher can verify the platform signature before execution.
 
 ZIP packages require SHA-256 verification. The launcher rejects unsafe archive paths, symbolic links, special files, oversized downloads, excessive unpacked size, excessive file counts and unapproved download hosts. ZIP installs are staged before activation.
 
